@@ -1,7 +1,7 @@
 {
-  "name": "@indivorg/apis",
-  "version": "1.0.0-dev",
-  "author": "Indiv AS",
+  "name": "apis",
+  "version": "1.0.0",
+  "author": "GoGoFood",
   "main": "dist/index.js",
   "license": "UNLICENSED",
   "files": [
