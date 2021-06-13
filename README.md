@@ -5,38 +5,29 @@
 
 ## Description
 
-[Nest-based](https://github.com/nestjs/nest) starting point for all services.
+[Nest-based](https://github.com/nestjs/nest) interface definition language for services.
 
 ## Installation
 
 ```bash
 $ npm install
 ```
-
-## Running the service
-
+or
 ```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
+$ yarn install
 ```
 
-## Test
+## Building
 
 ```bash
-# unit tests
-$ npm run test
+# pregenerate
+$ yarn pregenerate
 
-# e2e tests
-$ npm run test:e2e
+# generate
+$ yarn generate
 
-# test coverage
-$ npm run test:cov
+# postgenerate
+$ yarn postgenerate
 ```
 
 ## Support
