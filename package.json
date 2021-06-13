@@ -1,5 +1,5 @@
 {
-  "name": "apis",
+  "name": "@gogofood/apis",
   "version": "1.0.0",
   "author": "GoGoFood",
   "main": "dist/index.js",
