@@ -5,7 +5,7 @@
 
 ## Description
 
-[Nest-based](https://github.com/nestjs/nest) starting point for all services.
+[Nest-based](https://github.com/nestjs/nest) interface definition language for services.
 
 ## Installation
 
